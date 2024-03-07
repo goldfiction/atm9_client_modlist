@@ -5,6 +5,7 @@ AdvancedPeripherals-1.20.1-0.7.38r.jar
 AmbientSounds_FORGE_v5.3.7_mc1.20.1.jar
 architectury-9.1.13-fabric.jar
 armorskin-0.2.jar
+ars_instrumentum-1.20.1-4.1.0.jar
 ash_api-forge-3.0.2+1.20.1.jar
 audio_engine_tweaks-1.2.4-MC1.20.1 build 21.jar
 authme-7.0.2+1.20.jar
@@ -19,7 +20,6 @@ bactromod-1.8.jar
 bbs-1.20.1-0.1.3-quilt.jar
 beautifiedchatclient-1.20.1-2.4.jar
 BetterF3-7.0.2-Forge-1.20.1.jar
-BetterPvP_23.9.7_Forge_1.20.jar
 betterstats-3.7.1+fabric-1.20.1.jar
 bettertaskbar-forge-mc1.20-1.7.0.jar
 BetterThirdPerson-Forge-1.20-1.9.0.jar
@@ -41,7 +41,6 @@ consolesounds-1.2.0.jar
 constantmusic-forge-1.0.1.jar
 continuity-3.0.0-beta.4+1.20.1.jar
 Couplings-1.9.4+1.20.jar
-CraftPresence-2.2.6+1.20.1.jar
 CreativeCore_FABRIC_v2.11.16_mc1.20.1.jar
 CreativeCore_FORGE_v2.11.18_mc1.20.1.jar
 cristellib-1.1.5-fabric.jar
@@ -60,7 +59,6 @@ doubledoors-1.20.1-5.2.jar
 ducky-updater-lib-2023.10.1-1.20.2.jar
 dynamicappicon-1.20.1-0.2.1.jar
 enchantedbookredesign-1.20.1-1.jar
-entity-view-distance-1.1.2+1.20.jar
 essential_1-3-0-6_forge_1-20-1.jar
 EssentialGUI-1.9.3+1.20.1.jar
 extra_armor_info-mc1.20-1.0.0-build.6.jar
@@ -73,11 +71,9 @@ ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar
 FpsReducer2-fabric-1.20-2.5.jar
 FpsReducer2-forge-1.20-2.5.jar
 gjeb-forge-1.20.1-1.3.0.32.jar
-gpumemleakfix-1.20.1-1.8.jar
 guiclock-1.20.1-4.4.jar
 guicompass-1.20.1-4.4.jar
 guifollowers-1.20.1-3.4.jar
-helpfulcommands-3.0.0a-preview2.jar
 hiddenrecipebook-1.20.1-4.4.jar
 homabric-2.1.0+1.20.x.jar
 Iceberg-1.20.1-forge-1.1.18.jar
@@ -119,7 +115,6 @@ motorassistance-2.1.0-MC1.20.1-forge.jar
 multiple_server_lists-mc1.20-1.0.0-build.4.jar
 music_player-forge-1.20.1-2.7.0.236.jar
 naturespirit-1.4.2-1.20.1.jar
-nicer-skies-1.3.0+1.20.1.jar
 notenoughanimations-forge-1.7.0-mc1.20.1.jar
 notenoughcrashes-4.4.7+1.20.1-fabric.jar
 notenoughcrashes-4.4.7+1.20.1-forge.jar
@@ -135,14 +130,12 @@ paperdoll-forge-1.2.0-mc1.20.1.jar
 particle-rain-2.0.6.jar
 passiveshield-1.20.1-3.4.jar
 permanent-chat-logs-0.2.1-build20231127.jar
-polytone-1.20-1.14.5.jar
 PuzzlesLib-v8.1.11-1.20.1-Fabric.jar
 PuzzlesLib-v8.1.11-1.20.1-Forge.jar
 Quark-4.0-436.jar
 QuarkOddities-1.20.1.jar
 Quicker Connect Button-forge-1.20.1-1.0.1.jar
 reset-keys-confirmation-screen-1.0.0.jar
-resolution-control-plus-1.20-3.0.0.jar
 resource_explorer_forge_1.20.1-1.0.jar
 Resourcify (1.20-1.20.1-forge)-1.3.0.jar
 Rrls-1.20.1-3.1.0-forge.jar
@@ -182,7 +175,6 @@ Tips-Forge-1.20.1-12.0.4.jar
 todolist-0.3.3.jar
 tombstone-1.20.1-8.6.2.jar
 tradeuses-1.2.2-1.20.x-FORGE.jar
-translucencyfix-2.2.0-forge.jar
 transparent-forge-8.0.1+1.20.1.jar
 UnionLib-1.20.1-10.1.1-Fabric.jar
 UnionLib-1.20.1-10.1.1-Forge.jar
